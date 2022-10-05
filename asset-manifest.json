@@ -1,28 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.1313a380.chunk.css",
-    "main.js": "/static/js/main.6764d9e5.chunk.js",
-    "main.js.map": "/static/js/main.6764d9e5.chunk.js.map",
+    "main.js": "/static/js/main.0f2988cc.chunk.js",
+    "main.js.map": "/static/js/main.0f2988cc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fbf91d35.js",
     "runtime-main.js.map": "/static/js/runtime-main.fbf91d35.js.map",
     "static/css/2.f8532de9.chunk.css": "/static/css/2.f8532de9.chunk.css",
-    "static/js/2.11ab7d9b.chunk.js": "/static/js/2.11ab7d9b.chunk.js",
-    "static/js/2.11ab7d9b.chunk.js.map": "/static/js/2.11ab7d9b.chunk.js.map",
+    "static/js/2.2422b947.chunk.js": "/static/js/2.2422b947.chunk.js",
+    "static/js/2.2422b947.chunk.js.map": "/static/js/2.2422b947.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e973a31202cf76b7a39c44309e26fac5.js": "/precache-manifest.e973a31202cf76b7a39c44309e26fac5.js",
+    "precache-manifest.07894b2e167b63c1286b02bb4e214688.js": "/precache-manifest.07894b2e167b63c1286b02bb4e214688.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.f8532de9.chunk.css.map": "/static/css/2.f8532de9.chunk.css.map",
     "static/css/main.1313a380.chunk.css.map": "/static/css/main.1313a380.chunk.css.map",
-    "static/js/2.11ab7d9b.chunk.js.LICENSE.txt": "/static/js/2.11ab7d9b.chunk.js.LICENSE.txt",
+    "static/js/2.2422b947.chunk.js.LICENSE.txt": "/static/js/2.2422b947.chunk.js.LICENSE.txt",
     "static/media/404.svg": "/static/media/404.a5763944.svg",
     "static/media/4799045.jpg": "/static/media/4799045.f1fce7ff.jpg",
     "static/media/bg6-2.svg": "/static/media/bg6-2.8a1eb3d7.svg",
     "static/media/all.min.css": "/static/media/fa-solid-900.ee09ad75.woff",
-    "static/media/greg_pfp.png": "/static/media/greg_pfp.6328f2f7.png",
     "static/media/harrisonpfp.png": "/static/media/harrisonpfp.fdf7ef27.png",
     "static/media/iliLabs.png": "/static/media/iliLabs.9b3295cf.png",
     "static/media/argon-design-system.scss?v1.0.0": "/static/media/index_bg.5c570695.svg",
-    "static/media/mika_pfp.png": "/static/media/mika_pfp.c71461d8.png",
     "static/media/nicolas-prieto.jpg": "/static/media/nicolas-prieto.70b7e219.jpg",
     "static/media/nucleo-icons.css": "/static/media/nucleo-icons.f82ec6ba.ttf",
     "static/media/team-1.jpg": "/static/media/team-1.369f399e.jpg",
@@ -37,8 +35,8 @@
   "entrypoints": [
     "static/js/runtime-main.fbf91d35.js",
     "static/css/2.f8532de9.chunk.css",
-    "static/js/2.11ab7d9b.chunk.js",
+    "static/js/2.2422b947.chunk.js",
     "static/css/main.1313a380.chunk.css",
-    "static/js/main.6764d9e5.chunk.js"
+    "static/js/main.0f2988cc.chunk.js"
   ]
 }
