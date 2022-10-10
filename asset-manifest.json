@@ -1,24 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.1313a380.chunk.css",
-    "main.js": "/static/js/main.70b3282a.chunk.js",
-    "main.js.map": "/static/js/main.70b3282a.chunk.js.map",
+    "main.js": "/static/js/main.cc74c217.chunk.js",
+    "main.js.map": "/static/js/main.cc74c217.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fbf91d35.js",
     "runtime-main.js.map": "/static/js/runtime-main.fbf91d35.js.map",
     "static/css/2.f8532de9.chunk.css": "/static/css/2.f8532de9.chunk.css",
-    "static/js/2.2422b947.chunk.js": "/static/js/2.2422b947.chunk.js",
-    "static/js/2.2422b947.chunk.js.map": "/static/js/2.2422b947.chunk.js.map",
+    "static/js/2.d5f1b9d8.chunk.js": "/static/js/2.d5f1b9d8.chunk.js",
+    "static/js/2.d5f1b9d8.chunk.js.map": "/static/js/2.d5f1b9d8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6990da0ef022cdae393e5eca8cf4295e.js": "/precache-manifest.6990da0ef022cdae393e5eca8cf4295e.js",
+    "precache-manifest.b182f09173a95b5f551f6307b8d209fb.js": "/precache-manifest.b182f09173a95b5f551f6307b8d209fb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.f8532de9.chunk.css.map": "/static/css/2.f8532de9.chunk.css.map",
     "static/css/main.1313a380.chunk.css.map": "/static/css/main.1313a380.chunk.css.map",
-    "static/js/2.2422b947.chunk.js.LICENSE.txt": "/static/js/2.2422b947.chunk.js.LICENSE.txt",
+    "static/js/2.d5f1b9d8.chunk.js.LICENSE.txt": "/static/js/2.d5f1b9d8.chunk.js.LICENSE.txt",
     "static/media/404.svg": "/static/media/404.a5763944.svg",
     "static/media/4799045.jpg": "/static/media/4799045.f1fce7ff.jpg",
     "static/media/bg6-2.svg": "/static/media/bg6-2.8a1eb3d7.svg",
     "static/media/all.min.css": "/static/media/fa-solid-900.ee09ad75.woff",
-    "static/media/harrisonpfp.png": "/static/media/harrisonpfp.fdf7ef27.png",
     "static/media/iliLabs.png": "/static/media/iliLabs.9b3295cf.png",
     "static/media/argon-design-system.scss?v1.0.0": "/static/media/index_bg.5c570695.svg",
     "static/media/nicolas-prieto.jpg": "/static/media/nicolas-prieto.70b7e219.jpg",
@@ -28,15 +27,14 @@
     "static/media/team-3.jpg": "/static/media/team-3.27cf373d.jpg",
     "static/media/team-4.jpg": "/static/media/team-4.0d1e9a68.jpg",
     "static/media/team-5.jpg": "/static/media/team-5.28d1175d.jpg",
-    "static/media/thomaspfp.png": "/static/media/thomaspfp.d6a6d2de.png",
     "static/media/thumbnail.png": "/static/media/thumbnail.239656ca.png",
     "static/media/wXEQ.jpeg": "/static/media/wXEQ.13ab06fc.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.fbf91d35.js",
     "static/css/2.f8532de9.chunk.css",
-    "static/js/2.2422b947.chunk.js",
+    "static/js/2.d5f1b9d8.chunk.js",
     "static/css/main.1313a380.chunk.css",
-    "static/js/main.70b3282a.chunk.js"
+    "static/js/main.cc74c217.chunk.js"
   ]
 }
