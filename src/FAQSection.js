@@ -22,7 +22,7 @@ const FAQSection = () => {
               <h2 className="display-4 fw-bolder mb-5">
                 <span className="text d-inline">FAQ</span>
               </h2>
-            
+
               <div className="accordion" id="faqAccordion">
                 {/* FAQ items */}
                 <div className="accordion-item customItemFAQ">
@@ -89,7 +89,7 @@ const FAQSection = () => {
                   </h2>
                   <div id="faqCollapse4" className="accordion-collapse collapse" aria-labelledby="faqHeading4" data-bs-parent="#faqAccordion">
                     <div className="accordion-body sx-layout ">
-                      Stay informed by checking out our <a href="https://medium.com/@xeq.dev">Medium</a>, <a href="https://t.me/EquilibriaAnnouncements">announcement channel</a>, and our <a href="https://trello.com/b/G692ugky/xeq">Trello board</a> for the latest updates.
+                      Stay informed by checking out our <a href="https://medium.com/@xeq.dev">Medium</a> and our <a href="https://trello.com/b/G692ugky/xeq">Trello board</a> for the latest updates.
                     </div>
                   </div>
                 </div>
