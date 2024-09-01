@@ -107,6 +107,18 @@ const FAQSection = () => {
                   </div>
                 </div>
 
+                <div className="accordion-item customItemFAQ">
+                  <h2 className="accordion-header custom-faq-item " id="faqHeading7">
+                    <button className="accordion-button FAQbutton " type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse7" aria-expanded="true" aria-controls="faqCollapse7">
+                      What is eXEQ and how I can use it?
+                    </button>
+                  </h2>
+                  <div id="faqCollapse7" className="accordion-collapse collapse" aria-labelledby="faqHeading7" data-bs-parent="#faqAccordion">
+                    <div className="accordion-body sx-layout ">
+                      To get eXEQ, refer to our Medium post <a href="https://medium.com/@xeqcommunity/exeq-gui-swap-guide-1131bbdc1c6d">here</a>. It provides step-by-step instructions for swap process.
+                    </div>
+                  </div>
+                </div>
 
               </div>
             </div>
