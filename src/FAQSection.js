@@ -47,7 +47,7 @@ const FAQSection = () => {
                   </h2>
                   <div id="faqCollapse2" className="accordion-collapse collapse" aria-labelledby="faqHeading2" data-bs-parent="#faqAccordion">
                     <div className="accordion-body sx-layout">
-                      Equilibria mining is done using the CN-GPU algorithm. For detailed instructions, visit our mining <a href="https://github.com/EquilibriaCC/Equilibria/wiki/How-to-Mine-Equilibria">wiki page</a>.
+                      Equilibria mining is done using the RandomXEQ algorithm. For detailed instructions, visit our mining <a href="https://github.com/EquilibriaCC/Equilibria/wiki/How-to-Mine-Equilibria">wiki page</a>.
                     </div>
                   </div>
                 </div>
